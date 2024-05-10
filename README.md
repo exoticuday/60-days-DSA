@@ -1,3 +1,12 @@
 # 60-days-DSA
 # DAY-1 
 1. https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+2. https://www.geeksforgeeks.org/program-to-reverse-an-array/
+3. https://leetcode.com/problems/maximum-subarray/
+4. https://leetcode.com/problems/contains-duplicate/description/
+5. https://www.geeksforgeeks.org/chocolate-distribution-problem/
+6. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+7. https://leetcode.com/problems/next-permutation/description/
+8. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+9. https://www.interviewbit.com/problems/repeat-and-missing-number-array/
+10. https://leetcode.com/problems/kth-largest-element-in-an-array/description/
