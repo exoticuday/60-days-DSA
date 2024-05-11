@@ -12,10 +12,10 @@
 10. https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 
 # DAY-2
-1.https://leetcode.com/problems/trapping-rain-water/description/
-2.https://leetcode.com/problems/product-of-array-except-self/description/
-3.https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-4.https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp
-5.https://leetcode.com/problems/3sum/
-6.https://leetcode.com/problems/container-with-most-water/
-7.https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
+1. https://leetcode.com/problems/trapping-rain-water/description/
+2. https://leetcode.com/problems/product-of-array-except-self/description/
+3. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+4. https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp
+5. https://leetcode.com/problems/3sum/
+6. https://leetcode.com/problems/container-with-most-water/
+7. https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
