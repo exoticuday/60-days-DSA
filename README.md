@@ -28,3 +28,10 @@
 5. https://leetcode.com/problems/longest-common-prefix/description/
 6. https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/
 7. https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/
+
+# DAY-4
+1. https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/
+2. https://leetcode.com/problems/set-matrix-zeroes/
+3. https://leetcode.com/problems/spiral-matrix/
+4. https://leetcode.com/problems/rotate-image/
+5. https://leetcode.com/problems/word-search/
