@@ -35,3 +35,10 @@
 3. https://leetcode.com/problems/spiral-matrix/
 4. https://leetcode.com/problems/rotate-image/
 5. https://leetcode.com/problems/word-search/
+
+# DAY-5
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+2. https://leetcode.com/problems/longest-repeating-character-replacement/
+3. https://leetcode.com/problems/group-anagrams/
+4. https://leetcode.com/problems/longest-palindromic-substring/
+5. https://leetcode.com/problems/palindromic-substrings/
