@@ -42,3 +42,11 @@
 3. https://leetcode.com/problems/group-anagrams/
 4. https://leetcode.com/problems/longest-palindromic-substring/
 5. https://leetcode.com/problems/palindromic-substrings/
+
+# DAY-6
+1. https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/
+2. https://www.geeksforgeeks.org/counting-sort/
+3. https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/
+4. https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
+5. https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
+6. https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/
