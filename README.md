@@ -50,3 +50,10 @@
 4. https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/
 5. https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
 6. https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/
+
+# DAY-7
+1. https://www.geeksforgeeks.org/majority-element/
+2. https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-than-a-given-value/
+3. https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
+4. https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
+5. https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
