@@ -57,3 +57,10 @@
 3. https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
 4. https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/
 5. https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
+
+# DAY-8
+1. https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/
+2. https://www.geeksforgeeks.org/radix-sort/
+3. https://www.geeksforgeeks.org/a-product-array-puzzle/
+4. https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/
+5. https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/
