@@ -70,3 +70,12 @@
 2. https://www.geeksforgeeks.org/combinational-sum/
 3. https://www.hackerrank.com/challenges/crossword-puzzle/problem
 4. https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/
+
+# DAY-10
+1. https://leetcode.com/problems/reverse-linked-list/
+2. https://leetcode.com/problems/linked-list-cycle/description/
+3. https://leetcode.com/problems/merge-two-sorted-lists/description/
+4. https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
+5. https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+6. https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
+7. https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/
