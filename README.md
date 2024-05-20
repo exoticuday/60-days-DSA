@@ -64,3 +64,9 @@
 3. https://www.geeksforgeeks.org/a-product-array-puzzle/
 4. https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/
 5. https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/
+
+# DAY-9
+1. https://www.geeksforgeeks.org/rat-in-a-maze/
+2. https://www.geeksforgeeks.org/combinational-sum/
+3. https://www.hackerrank.com/challenges/crossword-puzzle/problem
+4. https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/
