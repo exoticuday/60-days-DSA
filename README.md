@@ -79,3 +79,9 @@
 5. https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
 6. https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/
 7. https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/
+
+# DAY-11
+1. https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
+2. https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1
+3. https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1
+4. https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1
