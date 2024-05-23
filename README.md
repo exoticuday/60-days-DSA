@@ -85,3 +85,10 @@
 2. https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1
 3. https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1
 4. https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1
+
+# DAY-12
+1. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+2. https://leetcode.com/problems/reorder-list/
+3. https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+4. https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+5. https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/
