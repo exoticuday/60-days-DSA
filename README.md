@@ -92,3 +92,9 @@
 3. https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
 4. https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
 5. https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/
+
+# DAY-13
+1. https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/
+2. https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
+3. https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/
+4. https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
