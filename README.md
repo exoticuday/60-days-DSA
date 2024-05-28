@@ -98,3 +98,12 @@
 2. https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
 3. https://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/
 4. https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
+
+# DAY-14
+1. https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
+2. https://www.geeksforgeeks.org/evaluation-of-postfix-expression/
+3. https://www.geeksforgeeks.org/evaluation-of-postfix-expression/
+4. https://www.geeksforgeeks.org/problems/queue-reversal/1
+5. https://www.geeksforgeeks.org/implement-stack-queue-using-deque/
+6. https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1
+7. https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/
