@@ -113,3 +113,11 @@
 2. https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1
 3. https://leetcode.com/problems/subtree-of-another-tree/
 4. https://leetcode.com/problems/invert-binary-tree/
+
+# DAY-16
+1. https://www.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1
+2. https://leetcode.com/problems/climbing-stairs/description/
+3. https://www.geeksforgeeks.org/permutation-coefficient/
+4. https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
+5. https://www.geeksforgeeks.org/maximum-sum-pairs-specific-difference/
+6. https://www.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1
