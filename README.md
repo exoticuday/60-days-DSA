@@ -121,3 +121,11 @@
 4. https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
 5. https://www.geeksforgeeks.org/maximum-sum-pairs-specific-difference/
 6. https://www.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1
+
+# DAY-17
+1. https://leetcode.com/problems/word-break/description/
+2. https://leetcode.com/problems/house-robber/description/
+3. https://leetcode.com/problems/house-robber-ii/description/
+4. https://leetcode.com/problems/decode-ways/description/
+5. https://leetcode.com/problems/unique-paths/description/
+6. https://leetcode.com/problems/jump-game/description/
