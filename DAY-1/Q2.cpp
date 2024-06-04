@@ -17,3 +17,21 @@ int main(){
         cout << arr[j]<< endl;
     }
 }
+
+// using making new array
+
+
+# include <bits/stdc++.h>
+using namespace std;
+
+void reverse(int arr[], int size){
+    int arr2[size];
+    for (int i=0;i<size ; i++){
+        arr2[i]=arr[size-i-1];
+        cout << arr2[i]<< " ";
+    }
+}
+int main(){
+    int arr[5]={2,5,3,7,9};
+    reverse(arr, 5);
+}
