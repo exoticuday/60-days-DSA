@@ -129,3 +129,13 @@
 4. https://leetcode.com/problems/decode-ways/description/
 5. https://leetcode.com/problems/unique-paths/description/
 6. https://leetcode.com/problems/jump-game/description/
+
+# DAY-18
+1. https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array-2/
+2. https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/
+3. https://www.geeksforgeeks.org/find-maximum-height-pyramid-from-the-given-array-of-objects/
+4. https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/
+5. https://www.geeksforgeeks.org/job-sequencing-problem/
+6. https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/
+7. https://www.geeksforgeeks.org/fractional-knapsack-problem/
+8. https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/
