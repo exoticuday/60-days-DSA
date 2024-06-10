@@ -139,3 +139,15 @@
 6. https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/
 7. https://www.geeksforgeeks.org/fractional-knapsack-problem/
 8. https://www.geeksforgeeks.org/maximum-length-chain-of-pairs-dp-20/
+
+# DAY-19
+1. https://leetcode.com/problems/invert-binary-tree/solutions/3199238/0-ms-simplest-solution-full-explanation-c-python3/
+2. https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+3. https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+4. https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+5. https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/#google_vignette
+6. https://www.geeksforgeeks.org/problems/leaf-at-same-level/1
+7. https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1
+8. https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1
+9. https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
+10. https://leetcode.com/problems/sum-root-to-leaf-numbers/description/
