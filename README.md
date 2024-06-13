@@ -151,3 +151,15 @@
 8. https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1
 9. https://www.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1
 10. https://leetcode.com/problems/sum-root-to-leaf-numbers/description/
+
+# DAY-20
+1. https://www.geeksforgeeks.org/next-greater-element/
+2. https://www.geeksforgeeks.org/heap-sort/
+3. https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/
+4. https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/
+5. https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+6. https://www.geeksforgeeks.org/cuckoo-hashing/
+7. https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
+8. https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
+9. https://www.geeksforgeeks.org/group-shifted-string/
+10. https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/
