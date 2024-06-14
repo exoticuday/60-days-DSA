@@ -163,3 +163,19 @@
 8. https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
 9. https://www.geeksforgeeks.org/group-shifted-string/
 10. https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/
+
+# DAY-21
+1. https://leetcode.com/problems/validate-binary-search-tree/description/
+2. https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/
+3. https://leetcode.com/problems/delete-node-in-a-bst/description/
+4. https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/
+5. https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1
+6. https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
+7. https://www.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1
+8. https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/
+9. https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/
+10. https://www.geeksforgeeks.org/program-nth-catalan-number/
+11. https://www.geeksforgeeks.org/problems/edit-distance3702/1
+12. https://www.geeksforgeeks.org/count-subsequences-product-less-k/
+13. https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1
+14. https://www.geeksforgeeks.org/gold-mine-problem/
