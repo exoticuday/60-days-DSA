@@ -179,3 +179,13 @@
 12. https://www.geeksforgeeks.org/count-subsequences-product-less-k/
 13. https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1
 14. https://www.geeksforgeeks.org/gold-mine-problem/
+
+# DAY-22
+1. https://www.geeksforgeeks.org/find-square-root-of-a-number-using-bit-manipulation/
+2. https://www.geeksforgeeks.org/problems/set-bits0143/1
+3. https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1
+4. https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1
+5. https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1
+6. https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1
+7. https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
+8. https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/
